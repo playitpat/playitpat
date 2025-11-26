@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pat — Data Analyst / Data Engineer based in Tokyo
+# 👋 Hi, I'm Pat — Business Analyst based in Tokyo
 
 I am a French–Brazilian data professional living in Japan, currently pursuing an International MBA at **Waseda Business School** under the MEXT scholarship.  
 My work bridges **data engineering, analytics, and business strategy**, with a strong interest in applied AI and practical automation.
@@ -24,7 +24,7 @@ I enjoy transforming messy data into decisions, building real tools that people 
 ### **Languages**
 🇫🇷 French  
 🇧🇷 Portuguese  
-🇯🇵 Japanese (N1-level)  
+🇯🇵 Japanese (~N1-level)  
 🇬🇧 English  
 
 ---
