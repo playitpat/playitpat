@@ -13,10 +13,11 @@ I enjoy transforming messy data into decisions, building real tools that people 
 - Python • SQL • Pandas • Jupyter  
 - Data modeling • ETL • Pipelines  
 - Business analytics & dashboarding (Power BI, Tableau)  
-- Applied machine learning & LLM integrations  
+- Applied machine learning • LLM integrations  
 
 ### **Business & Strategy**
 - MBA @ Waseda Business School (Japan)  
+- M1 @ ESSEC Business School (France & Singapore)  
 - Background in **FMCG, digital health, geospatial, and satellite data**  
 - Strong analytical storytelling and cross-functional communication  
 
@@ -36,9 +37,9 @@ Includes:
 - Persona-based system prompts  
 - Token budget enforcement  
 - JSON history logging  
-- Context management + analytics
+- Context management & analytics  
 
-👉 **Repo:** [conversation-manager](YOUR_LINK_HERE)
+👉 **Repo:** [conversation-manager](https://github.com/playitpat/ai_projects)
 
 ---
 
@@ -47,9 +48,9 @@ End-to-end SQL analysis of retail data, including:
 - Database setup (SQLite)  
 - SQL querying and optimization  
 - Jupyter-based analysis  
-- Documentation & ERD
+- Documentation & ERD  
 
-👉 **Repo:** [sql-sales-analysis](YOUR_LINK_HERE)
+👉 **Repo:** [sql-sales-analysis](https://github.com/playitpat/sql_projects)
 
 ---
 
@@ -60,8 +61,6 @@ End-to-end SQL analysis of retail data, including:
 - Simulation & forecasting  
 - Automation tools  
 - Strategy & decision sciences  
-- Japanese business culture  
-- Language learning  
 
 ---
 
@@ -69,7 +68,8 @@ End-to-end SQL analysis of retail data, including:
 
 If you're working on analytics, AI, or data platforms — or if you need someone bilingual to navigate tech and business in Japan — feel free to contact me!
 
-- 💼 LinkedIn: YOUR_LINK  
-- 📨 Email: YOUR_EMAIL  
+- 💼 LinkedIn: [Patrick Pakin](https://www.linkedin.com/in/patrick-pakin/)  
+- 📨 Email: [patrick.pakin@gmail.com](mailto:patrick.pakin@gmail.com)
 
-Thanks for visiting! 🙌  
+Thanks for visiting! 🙌
+
