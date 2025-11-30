@@ -50,6 +50,7 @@ End-to-end SQL analysis of retail data, including:
 - Jupyter-based analysis  
 - Documentation & ERD  
 
+👉 **Live App:** https://playitpat-life-progress-future-you-chat-app-kolxaf.streamlit.app/
 👉 **Repo:** [sql-sales-analysis](https://github.com/playitpat/sql_projects)
 
 ---
