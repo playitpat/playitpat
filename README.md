@@ -54,6 +54,23 @@ End-to-end SQL analysis of retail data, including:
 
 ---
 
+### 🔹 Life Progress Dashboard + Future-You AI Chatbot
+
+A Streamlit-based application that blends **habit tracking**, **self-reflection**, and **AI coaching** into one cohesive experience.
+
+#### **Features**
+- Set goals across six life dimensions  
+  Career, Education, Finance, Health, Hobbies, Relationships  
+- Log qualitative daily progress with simple notes  
+- View trends, streaks, and activity summaries in a clean dashboard  
+- Talk with an AI “future you” that reacts to your real data  
+- OpenAI-powered conversational insights with contextual reasoning  
+- Persistent state stored locally (no external database needed)
+
+👉 **Repo:** [life-progress-dashboard](https://github.com/playitpat/life-progress-future-you-chat)
+
+---
+
 ## 🧠 Interests
 
 - Large language models  
