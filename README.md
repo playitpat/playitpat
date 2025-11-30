@@ -50,7 +50,6 @@ End-to-end SQL analysis of retail data, including:
 - Jupyter-based analysis  
 - Documentation & ERD  
 
-👉 **Live App:** https://playitpat-life-progress-future-you-chat-app-kolxaf.streamlit.app/
 👉 **Repo:** [sql-sales-analysis](https://github.com/playitpat/sql_projects)
 
 ---
@@ -67,6 +66,8 @@ A Streamlit-based application that blends **habit tracking**, **self-reflection*
 - Talk with an AI “future you” that reacts to your real data  
 - OpenAI-powered conversational insights with contextual reasoning  
 - Persistent state stored locally (no external database needed)
+
+👉 **Live App:** [https://life-progress-dashboard.streamlit.app/](https://playitpat-life-progress-future-you-chat-app-kolxaf.streamlit.app/)
 
 👉 **Repo:** [life-progress-dashboard](https://github.com/playitpat/life-progress-future-you-chat)
 
