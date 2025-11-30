@@ -67,7 +67,6 @@ A Streamlit-based application that blends **habit tracking**, **self-reflection*
 - OpenAI-powered conversational insights with contextual reasoning  
 - Persistent state stored locally (no external database needed)
 
-👉 **Live App:** [https://life-progress-dashboard.streamlit.app/](https://playitpat-life-progress-future-you-chat-app-kolxaf.streamlit.app/)<br>
 👉 **Repo:** [life-progress-dashboard](https://github.com/playitpat/life-progress-future-you-chat)
 
 ---
