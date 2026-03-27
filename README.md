@@ -24,7 +24,7 @@ I enjoy transforming messy data into decisions, building real tools that people 
 ### **Languages**
 🇫🇷 French  
 🇧🇷 Portuguese  
-🇯🇵 Japanese (~N1-level)  
+🇯🇵 Japanese
 🇬🇧 English  
 
 ---
