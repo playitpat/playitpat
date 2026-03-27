@@ -31,6 +31,29 @@ I enjoy transforming messy data into decisions, building real tools that people 
 
 ## 📁 Featured Projects
 
+### 🔹 Danone AI Consumer Assistant (RAG + Insights)
+A Streamlit-based prototype of an **AI-powered consumer assistant** designed for Danone Japan, combining **RAG, LLMs, and consumer insight extraction**.
+
+#### **Features**
+- Natural language consumer Q&A with product recommendations  
+- Retrieval-Augmented Generation (RAG) using curated product knowledge  
+- Compliance-aware prompt design (no medical claims, brand-safe language)  
+- Automated extraction of consumer insights from conversations:
+  - Needs (e.g. digestion, protein)  
+  - Intent, sentiment, and personas  
+  - Flavor and product requests  
+  - Innovation signals and emerging use cases  
+- Built-in analytics dashboard to visualize trends and consumer behavior  
+
+#### **Why it matters**
+- Demonstrates how AI can transform **campaign-based marketing into continuous interaction**  
+- Generates **first-party consumer data** directly from conversations  
+- Bridges **AI engineering and business strategy** in an FMCG context  
+
+👉 **Repo:** [danone-ai-consumer-assistant](https://github.com/playitpat/rag-product-recommendation-chatbot)
+
+---
+
 ### 🔹 Conversation Manager with Personas (LLM Project)
 A clean, notebook-based implementation of a conversation management engine built on top of the OpenAI API.  
 Includes:
