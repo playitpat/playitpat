@@ -30,6 +30,31 @@ I enjoy transforming messy data into decisions, building real tools that people 
 ---
 
 ## 📁 Featured Projects
+### 🔹 Functional Food Claims Analytics (Databricks Genie)
+
+A conversational analytics project transforming a complex Japanese regulatory dataset into a **natural language query interface** using Databricks Genie.
+
+#### **Features**
+- Cleaned and structured a 100+ column regulatory dataset into a **Genie-ready semantic layer**
+- Designed **bilingual metadata (Japanese + English)** to support cross-language querying
+- Implemented **synonyms mapping** to bridge business language and data schema
+- Built **derived analytical features**:
+  - Function categories (gut health, sleep, stress, etc.)
+  - Evidence types (clinical trials vs systematic reviews)
+- Enabled natural language analysis of:
+  - Product claims  
+  - Ingredients  
+  - Scientific substantiation  
+  - Market trends  
+
+#### **Why it matters**
+- Turns a complex regulatory dataset into a **decision-making tool for business users**
+- Demonstrates how LLMs + semantic modeling unlock **self-service analytics**
+- Strong example of **data engineering + business understanding + AI integration**
+
+👉 **Repo:** [functional-food-claims-genie](https://github.com/playitpat/functional-food-claims-genie)
+
+---
 
 ### 🔹 Danone AI Consumer Assistant (RAG + Insights)
 A Streamlit-based prototype of an **AI-powered consumer assistant** designed for Danone Japan, combining **RAG, LLMs, and consumer insight extraction**.
