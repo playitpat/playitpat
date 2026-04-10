@@ -5,6 +5,8 @@ My work bridges **data engineering, analytics, and business strategy**, with a s
 
 I enjoy transforming messy data into decisions, building real tools that people actually use, and constantly learning across tech, business, and languages.
 
+I’m particularly interested in building AI systems that move beyond dashboards into **interactive, human-centered experiences**.
+
 ---
 
 ## 🚀 What I Do
@@ -79,15 +81,36 @@ A Streamlit-based prototype of an **AI-powered consumer assistant** designed for
 
 ---
 
-### 🔹 Conversation Manager with Personas (LLM Project)
-A clean, notebook-based implementation of a conversation management engine built on top of the OpenAI API.  
-Includes:
-- Persona-based system prompts  
-- Token budget enforcement  
-- JSON history logging  
-- Context management & analytics  
+### 🔹 AI Avatar Companion (Voice + Emotion + Interactive UI)
 
-👉 **Repo:** [conversation-manager](https://github.com/playitpat/ai_projects)
+A lightweight AI-powered companion combining **voice interaction, emotional intelligence, and real-time animated UI**, designed as a step toward **embodied AI experiences**.
+
+#### **Features**
+- Real-time voice and text interaction using browser APIs  
+- Expressive animated avatar rendered on canvas with:
+  - Emotional states (happy, sad, playful, concerned, etc.)
+  - Behavioral states (listening, thinking, speaking, sleeping)  
+- State-driven animation system:
+  - Blinking, gaze movement, breathing motion  
+  - Emotion-based facial expressions and transitions  
+- AI-generated responses with structured emotional output  
+- Automatic mood and state adaptation based on conversation context  
+- Sleep / wake system with inactivity detection  
+- Built with a **minimal and extensible architecture**:
+  - FastAPI backend  
+  - Lightweight frontend (HTML, CSS, JS)  
+  - No heavy dependencies (no local STT/TTS required)
+
+#### **Why it matters**
+- Explores the shift from **text-based AI → interactive, embodied AI systems**  
+- Demonstrates how LLMs can drive **both reasoning and UX behavior**  
+- Bridges:
+  - AI engineering  
+  - product design  
+  - human-computer interaction  
+- Shows ability to build **end-to-end AI products**, not just models  
+
+👉 **Repo:** https://github.com/playitpat/virtual_face_ai_companion
 
 ---
 
@@ -116,6 +139,18 @@ A Streamlit-based application that blends **habit tracking**, **self-reflection*
 - Persistent state stored locally (no external database needed)
 
 👉 **Repo:** [life-progress-dashboard](https://github.com/playitpat/life-progress-future-you-chat)<br>
+
+---
+
+### 🔹 Conversation Manager with Personas (LLM Project)
+A clean, notebook-based implementation of a conversation management engine built on top of the OpenAI API.  
+Includes:
+- Persona-based system prompts  
+- Token budget enforcement  
+- JSON history logging  
+- Context management & analytics  
+
+👉 **Repo:** [conversation-manager](https://github.com/playitpat/ai_projects)
 
 ---
 
