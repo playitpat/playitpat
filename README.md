@@ -114,6 +114,46 @@ A lightweight AI-powered companion combining **voice interaction, emotional inte
 
 ---
 
+### 🔹 Audience Perception Analysis for a Japanese Heritage Brand
+
+A mixed-methods research and analytics project combining **survey analysis, thematic coding, and comparative audience research** to understand how existing customers and international audiences perceive the identity, authenticity, philosophy, and engagement opportunities of a traditional Japanese cultural organization.
+
+#### **Features**
+
+* Automated processing of Qualtrics survey exports
+* Dynamic handling of incomplete responses with question-level valid sample sizes
+* Descriptive statistical analysis of closed-ended survey questions
+* Comparative framework for customer vs international audience analysis
+* Automated generation of frequency tables, Likert summaries, and comparison tables
+* Manual thematic coding workflow for open-ended responses
+* Automated thematic analysis summaries and audience comparisons
+* Export-ready Excel reports and publication-ready visualizations
+
+#### **Methods**
+
+* Survey analytics
+* Comparative audience analysis
+* Thematic coding
+* Mixed-methods research
+* Data triangulation
+* Qualitative and quantitative integration
+
+#### **Why it matters**
+
+* Demonstrates the ability to combine **quantitative and qualitative evidence** into actionable insights
+* Shows how analytics can support **consumer research, cultural translation, and strategic decision-making**
+* Bridges:
+
+  * Data analytics
+  * Consumer insights
+  * Research methodology
+  * Business strategy
+* Illustrates the design of a reproducible end-to-end research workflow, from raw survey data to executive-ready findings
+
+👉 **Repo:** https://github.com/playitpat/mixed-methods-audience-research
+
+---
+
 ### 🔹 SQL Sales Analysis Project
 End-to-end SQL analysis of retail data, including:
 - Database setup (SQLite)  
